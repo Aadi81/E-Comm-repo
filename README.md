@@ -4,15 +4,10 @@ A responsive and modern **E-commerce website** built using **pure HTML and CSS**
 
 ---
 
-## 🔍 Preview
-
-> *()*
-
----
 
 ## 🌐 Live Demo
 
-> Coming Soon – deploy on GitHub Pages or Netlify
+> (https://aadi81.github.io/E-Comm-repo/)
 
 ---
 
